@@ -1,0 +1,92 @@
+Enter one of the following actions or press CTRL-D to exit
+C - create a new item
+R - read an existing item
+U - update an existing item
+D - delete an existing item
+Enter an item number: 
+Enter a simple name: 
+Enter a item name: 
+Enter the current quantity: 
+Enter the max quantity: 
+Enter a description: 
+Enter one of the following actions or press CTRL-D to exit
+C - create a new item
+R - read an existing item
+U - update an existing item
+D - delete an existing item
+Enter an item number: 
+Item name: Milk (Half Gallon)
+Simple name: milk
+Current Quantity: 24
+Max Quantity: 30
+Body: A half gallon of milk.
+
+Enter one of the following actions or press CTRL-D to exit
+C - create a new item
+R - read an existing item
+U - update an existing item
+D - delete an existing item
+Enter an item number: 
+Item name: Orange Juice
+Simple name: oj
+Current Quantity: 10
+Max Quantity: 100
+Body: A half gallon of orange juice.
+
+Enter one of the following actions or press CTRL-D to exit
+C - create a new item
+R - read an existing item
+U - update an existing item
+D - delete an existing item
+Enter an item number: 
+ERROR: Item not found
+Enter one of the following actions or press CTRL-D to exit
+C - create a new item
+R - read an existing item
+U - update an existing item
+D - delete an existing item
+Enter an item number: 
+Enter a simple name: 
+Enter a item name: 
+Enter the current quantity: 
+Enter the max quantity: 
+Enter a description: 
+Enter one of the following actions or press CTRL-D to exit
+C - create a new item
+R - read an existing item
+U - update an existing item
+D - delete an existing item
+Enter an item number: 
+ERROR: Item not found
+Enter one of the following actions or press CTRL-D to exit
+C - create a new item
+R - read an existing item
+U - update an existing item
+D - delete an existing item
+Enter an item number: 
+oj was successfully deleted
+Enter one of the following actions or press CTRL-D to exit
+C - create a new item
+R - read an existing item
+U - update an existing item
+D - delete an existing item
+Enter an item number: 
+ERROR: Item already exists
+Enter one of the following actions or press CTRL-D to exit
+C - create a new item
+R - read an existing item
+U - update an existing item
+D - delete an existing item
+Enter an item number: 
+ERROR: Item already exists
+Enter one of the following actions or press CTRL-D to exit
+C - create a new item
+R - read an existing item
+U - update an existing item
+D - delete an existing item
+ERROR: Invalid option
+Enter one of the following actions or press CTRL-D to exit
+C - create a new item
+R - read an existing item
+U - update an existing item
+D - delete an existing item
